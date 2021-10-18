@@ -6,8 +6,8 @@ class Presets(object):
     WAIT_MESSAGE = "⌛️ <b>Processing</b> ⌛"
     DOWNLOAD_MSG = "📥 <b>Downloading</b> 📥"
     UPLOAD_MSG = "📤 <b>Uploading</b> 📤"
-    FINISHED_BAR = "🔵"
-    UN_FINISHED_BAR = "🔴"
+    FINISHED_BAR = "⭕"
+    UN_FINISHED_BAR = "🔵"
     FINISHED_DL = "<b>Success !</b>\n<i>Document Downloaded Successfully.</i>"
     START_COMPRESSING = "⌛️ <b>Processing</b>  ⌛\n<i>Trying To Compress the Document.</i>"
     FINISHED_JOB = "<b>Success</b> ✅ \n\n<i>Size Before Job: {}\nSize After Job: {}\n\nCredits: </i><a " \
