@@ -4,12 +4,12 @@ class Presets(object):
     INVALID_FORMAT = "<b>Error:</b>\n<i>I can only compress pdf documents. Please make it sure, you have given me a " \
                      "valid document. Try again...</i>"
     WAIT_MESSAGE = "⌛️ <b>Processing</b> ⌛"
-    DOWNLOAD_MSG = "⌛️ <b>Downloading</b> ⌛"
+    DOWNLOAD_MSG = "📥 <b>Downloading</b> 📥"
     UPLOAD_MSG = "📤 <b>Uploading</b> 📤"
     FINISHED_BAR = "◼️"
     UN_FINISHED_BAR = "◻️"
-    FINISHED_DL = "<b>Success !</b>\n<i>Document downloaded successfully.</i>"
-    START_COMPRESSING = "⌛️ <b>Processing</b>  ⌛\n<i>Trying to compress the document.</i>"
-    FINISHED_JOB = "<b>Success</b> ✅ \n\n<i>Size before job: {}\nSize after job: {}\n\nCredits: </i><a " \
-                   "href='https://github.com/m4mallu'><b> @M4Mallu</b></a> "
+    FINISHED_DL = "<b>Success !</b>\n<i>Document Downloaded Successfully.</i>"
+    START_COMPRESSING = "⌛️ <b>Processing</b>  ⌛\n<i>Trying To Compress the Document.</i>"
+    FINISHED_JOB = "<b>Success</b> ✅ \n\n<i>Size Before Job: {}\nSize After Job: {}\n\nCredits: </i><a " \
+                   "href='https://t.me/m2botz'><b> M2BOTZ</b></a> "
     JOB_ERROR = "<b>Error:</b>\n<i>Something went wrong ! Process exited</i>"
