@@ -13,7 +13,7 @@ start = [
 
 close = [
         [
-            InlineKeyboardButton('Support', url='t.me/rmprojects'),
+            InlineKeyboardButton('💬 Update Channel', url='t.me/m2botz'),
             InlineKeyboardButton('Close', callback_data='close_btn')
         ]
         ]
