@@ -7,7 +7,7 @@ start = [
         ],
         [
             InlineKeyboardButton('🧑‍💻Developer', url='t.me/ask_admin01'),
-            InlineKeyboardButton('Close', callback_data='close_btn')
+            InlineKeyboardButton('🔒Close', callback_data='close_btn')
         ]
         ]
 
