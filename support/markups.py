@@ -14,7 +14,7 @@ start = [
 close = [
         [
             InlineKeyboardButton('💬 Update Channel', url='t.me/m2botz'),
-            InlineKeyboardButton('Close', callback_data='close_btn')
+            InlineKeyboardButton('🔒Close', callback_data='close_btn')
         ]
         ]
 
