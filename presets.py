@@ -9,7 +9,7 @@ class Presets(object):
     FINISHED_BAR = "⭕"
     UN_FINISHED_BAR = "🔵"
     FINISHED_DL = "<b>Success !</b>\n<i>Document Downloaded Successfully.</i>"
-    START_COMPRESSING = "⌛️ <b>Processing</b>  ⌛\n<i>Trying To Compress the Document.</i>"
-    FINISHED_JOB = "<b>Success</b> ✅ \n\n<i>Size Before Job: {}\nSize After Job: {}\n\nCredits: </i><a " \
+    START_COMPRESSING = "⌛️ <b>Processing</b>  🗜️\n<i>Trying To Compress the Document.</i>"
+    FINISHED_JOB = "✅<b>Compressed Succesfully</b> ✅ \n\n<i>📁Old Size: {}\n📁New Size: {}\n\nMade By ❤️: </i><a " \
                    "href='https://t.me/m2botz'><b> M2BOTZ</b></a> "
     JOB_ERROR = "<b>Error:</b>\n<i>Something went wrong ! Process exited</i>"
