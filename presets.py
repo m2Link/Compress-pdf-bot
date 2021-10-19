@@ -3,7 +3,7 @@ class Presets(object):
                   "@M2Botz</i> "
     INVALID_FORMAT = "<b>Error:</b>\n<i>I can only compress pdf documents. Please make it sure, you have given me a " \
                      "valid document. Try again...</i>"
-    WAIT_MESSAGE = "⌛️ <b>Processing</b> ⌛"
+    WAIT_MESSAGE = "🎭 <b>Processing</b> 🎭"
     DOWNLOAD_MSG = "📥 <b>Downloading</b> 📥"
     UPLOAD_MSG = "📤 <b>Uploading</b> 📤"
     FINISHED_BAR = "■"
